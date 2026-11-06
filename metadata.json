@@ -1,0 +1,6 @@
+{
+  "name": "FitSiswa PJOK — Pelacakan Kebugaran & Penilaian TKJI SMP",
+  "description": "Platform pelacakan kebugaran fisik siswa jenjang SMP berbasis standar TKJI Depdiknas/Kemenpora, analitik kelas, panduan postur vektor, portal orang tua, dan ekspor rapor PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
